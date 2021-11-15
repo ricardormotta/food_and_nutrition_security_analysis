@@ -1,0 +1,125 @@
+ Morbidade Hospitalar do SUS - por local de internação - Bahia
+Internações por Município e Caráter atendimento
+Lista Morb  CID-10: Doença reumática crônica do coração, Outras doenças hipertensivas, Infarto agudo do miocárdio, Outras doenças isquêmicas do coração, Transtornos de condução e arritmias cardíacas, Insuficiência cardíaca, Outras doenças do coração
+Cor/raça: Preta
+Período:2012
+"Município";"Eletivo";"Urgência";"Total"
+"290020 Abaré";-;1;1
+"290060 Aiquara";-;28;28
+"290070 Alagoinhas";4;118;122
+"290080 Alcobaça";-;4;4
+"290160 Antas";-;2;2
+"290205 Araças";-;1;1
+"290240 Aurelino Leal";-;1;1
+"290260 Baixa Grande";-;1;1
+"290280 Barra da Estiva";-;26;26
+"290300 Barra do Mendes";-;3;3
+"290340 Belmonte";-;13;13
+"290400 Boninal";-;7;7
+"290410 Boquira";-;2;2
+"290430 Brejões";-;1;1
+"290460 Brumado";-;3;3
+"290490 Cachoeira";2;77;79
+"290500 Caculé";-;7;7
+"290510 Caém";-;1;1
+"290520 Caetité";1;25;26
+"290560 Camacan";-;87;87
+"290600 Campo Formoso";-;3;3
+"290630 Canavieiras";-;1;1
+"290687 Capim Grosso";-;6;6
+"290690 Caravelas";-;9;9
+"290720 Casa Nova";-;1;1
+"290730 Castro Alves";-;16;16
+"290800 Coaraci";-;6;6
+"290810 Cocos";-;3;3
+"290830 Conceição do Almeida";-;1;1
+"290840 Conceição do Coité";-;2;2
+"290850 Conceição do Jacuípe";-;1;1
+"290910 Coribe";-;3;3
+"290980 Cruz das Almas";-;12;12
+"291030 Elísio Medrado";-;3;3
+"291072 Eunápolis";-;33;33
+"291080 Feira de Santana";-;1;1
+"291085 Filadélfia";-;1;1
+"291120 Gandu";-;15;15
+"291170 Guanambi";-;28;28
+"291210 Ibicaraí";-;1;1
+"291270 Ibirapitanga";-;4;4
+"291290 Ibirataia";-;27;27
+"291300 Ibitiara";-;3;3
+"291340 Igaporã";-;11;11
+"291350 Iguaí";-;10;10
+"291360 Ilhéus";-;79;79
+"291450 Irará";-;4;4
+"291460 Irecê";-;1;1
+"291465 Itabela";-;5;5
+"291480 Itabuna";-;13;13
+"291550 Itajuípe";-;2;2
+"291570 Itamari";-;4;4
+"291660 Itapitanga";-;3;3
+"291670 Itaquara";-;3;3
+"291680 Itarantim";-;1;1
+"291720 Ituaçu";-;3;3
+"291730 Ituberá";-;3;3
+"291740 Jacaraci";-;2;2
+"291750 Jacobina";-;40;40
+"291760 Jaguaquara";-;18;18
+"291800 Jequié";-;51;51
+"291840 Juazeiro";-;3;3
+"291860 Jussiape";-;2;2
+"291950 Livramento de Nossa Senhora";-;4;4
+"291960 Macajuba";-;5;5
+"292000 Maiquinique";-;2;2
+"292010 Mairi";-;2;2
+"292020 Malhada";-;26;26
+"292050 Maracás";-;11;11
+"292170 Morro do Chapéu";-;1;1
+"292200 Mucuri";-;2;2
+"292210 Mundo Novo";-;10;10
+"292240 Mutuípe";-;2;2
+"292250 Nazaré";-;29;29
+"292270 Nova Canaã";-;2;2
+"292360 Paramirim";-;21;21
+"292490 Planaltino";-;1;1
+"292510 Poções";-;3;3
+"292520 Pojuca";-;6;6
+"292530 Porto Seguro";-;20;20
+"292550 Prado";-;6;6
+"292575 Presidente Tancredo Neves";-;16;16
+"292580 Queimadas";-;1;1
+"292595 Rafael Jambeiro";-;1;1
+"292600 Remanso";-;2;2
+"292620 Riachão das Neves";-;1;1
+"292630 Riachão do Jacuípe";-;10;10
+"292640 Riacho de Santana";-;22;22
+"292670 Rio de Contas";-;2;2
+"292690 Rio do Pires";-;2;2
+"292740 Salvador";53;112;165
+"292750 Santa Bárbara";-;3;3
+"292860 Santo Amaro";-;3;3
+"292870 Santo Antônio de Jesus";1;3;4
+"292895 São Domingos";-;5;5
+"292900 São Félix";-;34;34
+"292940 São Miguel das Matas";-;4;4
+"292960 Sapeaçu";-;1;1
+"292980 Saúde";-;2;2
+"292990 Seabra";-;7;7
+"293020 Sento Sé";-;1;1
+"293050 Serrinha";-;4;4
+"293105 Tanque Novo";-;2;2
+"293135 Teixeira de Freitas";3;74;77
+"293160 Teolândia";-;3;3
+"293290 Valença";-;44;44
+"293300 Valente";-;2;2
+"293330 Vitória da Conquista";14;109;123
+"293340 Wagner";-;1;1
+"293350 Wenceslau Guimarães";-;5;5
+"293360 Xique-Xique";-;23;23
+"Total";78;1498;1576
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Situação da base de dados nacional em 29/04/2016.
+ Dados de janeiro de 2015 até março de 2016 sujeitos a retificação.
+ 
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.
